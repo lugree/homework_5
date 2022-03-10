@@ -1,0 +1,1 @@
+random_list = ['map', 'image', 'flower', 'carrot', 'coffee']
